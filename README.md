@@ -1,5 +1,10 @@
 # Todolist Mobile App
 
+<div style="display: flex;">
+    <img src="./assets/images/screenshots/screenshot1.jpg" alt="Todolist Mobile App Screenshot"  style="width: 20%; margin-right: 10px;">
+    <img src="./assets/images/screenshots/screenshot2.jpg" alt="Todolist Mobile App Screenshot" style="width: 20%">
+</div>
+
 ## About the Project
 
 This is a simple todolist mobile application built using React Native, allowing users to manage their tasks efficiently. With a user-friendly interface, this app enables users to seamlessly add, complete, and delete tasks on the go.
